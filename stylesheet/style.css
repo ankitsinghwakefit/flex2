@@ -1,0 +1,16 @@
+img {
+    width: 480px;
+    height: 260px;
+}
+.box{
+    border: 4px solid black;
+    margin: 15px;
+}
+
+.container {
+    width: 1600px;
+    padding: 30px;
+    margin-left: 160px;
+    display: flex;
+    flex-wrap: wrap;
+}
